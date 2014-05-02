@@ -3,6 +3,8 @@ Publication List
 2014
 ----
 * SunPy - Python for Solar Physics, S. Mumford, S. Christe, D. Perez-Suarez, J. Ireland, A. Y Shih, A. R Inglis, S, Liedtke, R. J Hewett, F. Mayer, K. Hughitt, N. Freij, T. Meszaros, S. M Bennett, M. Malocha, J. Evans, A. Agrawal, A. J Leonard, T. P Robitaille, B. Mampaey, J. I. Campos-Rozo, and M. S. Kirk, 2014, **Computational Science and Discovery**, *submitted*
+* Constraining Hot Plasma in a Non-flaring Solar Active Region with FOXSI Hard X-ray Observations, S. Ishikawa, L. Glesener, S. Christe, K. Ishibashi, D. Brooks, D. Williams, M. Shimojo, N. Sako, S. Krucker, **Publications of the Astronomical Society of Japan**, 2014, *submitted*
+* First Images from FOXSI (Focusing Optics X-ray Solar Imager), S. Krucker, S. Christe, L. Glesener, S. Ishikawa, B. Ramsey, T. Takahashi, S. Watanabe, S. Saito, M. Gubarev, K. Kilaru, H. Tajima, T. Tanaka, P. Turin, S. McBride, D. Glaser, J. Fermin, S. White, R.P. Lin, **ApJ**, *submitted*
 * Constraining the Differential Emission Measure and Energy of Microflares by Combining SDO/AIA and RHESSI, A. R. Inglis, S. Christe, **ApJ**, *submitted*
 * High Energy Replicated Optics to Explore the Sun Balloon-Borne Telescope: Astrophysical Pointing, Jessica Gaskin, Colleen Wilson-Hodge, Brian Ramsey, Jeff Apple, Kurt Dietz, Allyn Tennant, Douglas Swartz, Steven Christe, Albert Shih, 2014, **IEEE**
 * A Solar Aspect System for the HEROES Mission, Steven Christe, Albert Shih, Marcello Rodriguez, Kyle Gregory, Alexander Cramer, Melissa Edgerton, Jessica Gaskin, Brian O ' Connor, Alexander Sobey, 2014, **IEEE**
