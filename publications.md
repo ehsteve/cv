@@ -11,9 +11,9 @@ Publication List
 
 2013
 ----
-* The High Energy Replicated Optics to Explore the Sun Mission: a hard x-ray balloon-borne telescope, S ~D Christe, A Shih, M Rodriguez, A Cramer, K Gregory, M Edgerton, J Gaskin, C Wilson-Hodge, J Apple, K Stevenson Chavis, A Jackson, L Smith, K Dietz, B O'Connor, A Sobey, H Koehler, B Ramsey, 2013, **SPIE**
+* [The High Energy Replicated Optics to Explore the Sun Mission: a hard x-ray balloon-borne telescope](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1744908), S ~D Christe, A Shih, M Rodriguez, A Cramer, K Gregory, M Edgerton, J Gaskin, C Wilson-Hodge, J Apple, K Stevenson Chavis, A Jackson, L Smith, K Dietz, B O'Connor, A Sobey, H Koehler, B Ramsey, 2013, **SPIE**, doi:10.1117/12.2024323
 * [High Energy Replicated Optics to Explore the Sun: Hard X-ray balloon-borne telescope](http://adsabs.harvard.edu/abs/2013aero.confE.244G), Gaskin, J.; Apple, J.; Chavis, K. S.; Dietz, K.; Holt, M.; Koehler, H.; Lis, T.; O'Connor, B.; Otero, M. R.; Pryor, J.; Ramsey, B.; Rinehart-Dawson, M.; Smith, L.; Sobey, A.; Wilson-Hodge, C.; Christe, S.; Cramer, A.; Edgerton, M.; Rodriguez, M.; Shih, A.; Gregory, D.; Jasper, J.; Bohon, S., 2013, **SPIE**, 10.1109/AERO.2013.6497198
-* The focusing optics x-ray solar imager (FOXSI): instrument and first flight, S Krucker, S Christe, L Glesener, S Ishikawa, B Ramsey, M Gubarev, S Saito, T Takahashi, S Watanabe, H Tajima, T Tanaka, P Turin, D Glaser, J Fermin, R ~P Lin, 2013, **SPIE**
+* [The Focusing Optics X-ray Solar Imager (FOXSI): Instrument and First Flight](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1744926), S Krucker, S Christe, L Glesener, S Ishikawa, B Ramsey, M Gubarev, S Saito, T Takahashi, S Watanabe, H Tajima, T Tanaka, P Turin, D Glaser, J Fermin, R ~P Lin, 2013, **SPIE**, doi:10.1117/12.2024277
 
 2011
 ----
