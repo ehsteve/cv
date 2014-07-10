@@ -57,4 +57,4 @@ Analysis of Solar Microflares Observed with RHESSI](http://adsabs.harvard.edu/ab
 2001
 ----
 
-* A Single Hollow Beam Optical Trap For Cold Atoms, S. Kulin, S. Aubin, S. Christe, B. Peker, S. L. Rolston, L.A. Orozco, **J. Opt. B: Quantum Semiclass. Opt.**, 2001, 3, 353
+* [A Single Hollow Beam Optical Trap For Cold Atoms](http://iopscience.iop.org/1464-4266/3/6/301), S. Kulin, S. Aubin, S. Christe, B. Peker, S. L. Rolston, L.A. Orozco, **J. Opt. B: Quantum Semiclass. Opt.**, 2001, 3, 353
