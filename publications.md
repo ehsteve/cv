@@ -16,6 +16,7 @@ Publication List
 * [High Energy Replicated Optics to Explore the Sun: Hard X-ray balloon-borne telescope](http://adsabs.harvard.edu/abs/2013aero.confE.244G), Gaskin, J.; Apple, J.; Chavis, K. S.; Dietz, K.; Holt, M.; Koehler, H.; Lis, T.; O'Connor, B.; Otero, M. R.; Pryor, J.; Ramsey, B.; Rinehart-Dawson, M.; Smith, L.; Sobey, A.; Wilson-Hodge, C.; Christe, S.; Cramer, A.; Edgerton, M.; Rodriguez, M.; Shih, A.; Gregory, D.; Jasper, J.; Bohon, S., 2013, **SPIE**, 10.1109/AERO.2013.6497198
 * [The Focusing Optics X-ray Solar Imager (FOXSI): Instrument and First Flight](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1744926), S Krucker, S Christe, L Glesener, S Ishikawa, B Ramsey, M Gubarev, S Saito, T Takahashi, S Watanabe, H Tajima, T Tanaka, P Turin, D Glaser, J Fermin, R ~P Lin, 2013, **SPIE**, doi:10.1117/12.2024277
 * [SunPy: Python for Solar Physicists](http://conference.scipy.org/proceedings/scipy2013/mumford.html), S. Mumford, D. Pérez-Suárez, S. Christe, F. Mayer, R. Hewett, Scipy 2013
+* [Solar Eruptive Events (SEE) 2020 Mission Concept](http://arxiv.org/abs/1311.5243), R. P. Lin, A. Caspi, S. Krucker, H. Hudson, G. Hurford, S. Bandler, S. Christe, J. Davila, B. Dennis, G. Holman, R. Milligan, A. Y. Shih, S. Kahler, E. Kontar, M. Wiedenbeck, J. Cirtain, G. Doschek, G. H. Share, A. Vourlidas, J. Raymond, D. M. Smith, M. McConnell, G. Emslie, Heliophysics Decadal Survey White Paper
 
 2011
 ----
