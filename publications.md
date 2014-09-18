@@ -2,6 +2,7 @@ Publication List
 ================
 2014
 ----
+* First Images From the Focusing Optics X-ray Solar Imager, S. Krucker, S. Christe, L. Glesener, S. Ishikawa, B. Ramsey, T. Takahashi, S. Watanabe, S. Saito, M. Gubarev, K. Kilaru, H. Tajima, T. Tanaka, P. Turin, S. McBride, D. Glaser, J. Fermin, S. White, R. P. Lin, ApJ, 2014 *accepted*
 * Calibration of the High Energy Replicated Optics to Explore the Sun (HEROES) Hard X-ray Telescope, C. Wilson-Hodge, J. Gaskin, S. Christe, A. Shih, A. Tennant, D. Swartz, K. Kilaru, R. Elsner, J. Kolodziejczak, B. Ramsey, **Journal of Astronomical Instrumentation**, 2014, *accepted*
 * SunPy - Python for Solar Physics, S. Mumford, S. Christe, D. Perez-Suarez, J. Ireland, A. Y Shih, A. R Inglis, S, Liedtke, R. J Hewett, F. Mayer, K. Hughitt, N. Freij, T. Meszaros, S. M Bennett, M. Malocha, J. Evans, A. Agrawal, A. J Leonard, T. P Robitaille, B. Mampaey, J. I. Campos-Rozo, and M. S. Kirk, 2014, **Computational Science and Discovery**, *submitted*
 * Constraining Hot Plasma in a Non-flaring Solar Active Region with FOXSI Hard X-ray Observations, S. Ishikawa, L. Glesener, S. Christe, K. Ishibashi, D. Brooks, D. Williams, M. Shimojo, N. Sako, S. Krucker, **Publications of the Astronomical Society of Japan**, 2014, *submitted*
