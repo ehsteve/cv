@@ -4,19 +4,23 @@ import subprocess
 
 bio_filename = "bio"
 
-try:
-    os.remove(bio_filename + '.aux')
-except:
-    pass
+def build_tex(name, bib=False):
+    try:
+        os.remove(bio_filename + '.aux')
+    except:
+        pass
 
-try:
-    os.remove(bio_filename + '.bbl')
-except:
-    pass
+    try:
+        os.remove(bio_filename + '.bbl')
+    except:
+        pass
 
-os.system('pdflatex ' + bio_filename)
+    os.system('pdflatex ' + name)
+    if bib:
+        os.system('bibtex ' + name)
+        os.system('pdflatex ' + name)
+
+build_tex("bio")
+build_tex("cv", bib=True)
 
 subprocess.call(["python", "bib_to_markdown.py"])
-
-#os.system('bibtex ' + paper_name)
-#os.system('pdflatex -shell-escape ' + paper_name)

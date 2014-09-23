@@ -1,4 +1,7 @@
 \documentclass[11pt]{article}
+\usepackage{aas_macros}
+\usepackage{natbib}
+
 
 \oddsidemargin=.15in
 \evensidemargin=.15in
@@ -8,6 +11,8 @@
 \parindent=0in
 
 \renewcommand{\familydefault}{\sfdefault}
+\renewcommand{\bibsection}{\section*{Publications}\vspace{-0.3in}\underline{\hspace{6in}}}
+\renewcommand{\bibsep}{5pt}	% Tighten spacing between references
 
 \newenvironment{myitemize*}%
   {\begin{itemize}%
@@ -35,10 +40,9 @@ Work (301) 286-7999 $\;$ steven.d.christe\verb|@|nasa.gov $\;$ \\[2pc]
 
 \input{bio_experience.tex}
 
-{\large \bf Selected Publications} \\*[-.8pc]
-\underline{\hspace{6in}} \\
-For a complete list see http://github.com/ehsteve/cv/blob/master/publications.md
+\nocite{*}
 
-\input{selected_publications.tex}
+\bibliographystyle{humannat}
+\bibliography{publications}
 
 \end{document}
