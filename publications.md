@@ -35,6 +35,7 @@ Lin, R. P., **ApJ**, 2011, 10.1088/0004-637X/736/1/75
 2009
 ----
 * [The Focusing Optics X-ray Solar Imager (FOXSI)](http://adsabs.harvard.edu/abs/2009SPIE.7437E..05K), Krucker, S.; Christe, S.; Glesener, L.; McBride, S.; Turin, P.; Glaser, D.; Saint-Hilaire, P.; Delory, G.; Lin, R. P.; Gubarev, M.; Ramsey, B.; Terada, Y.; Ishikawa, S.-N.; Kokubun, M.; Saito, S.; Takahashi, T. andWatanabe, S.; Nakazawa, K.; Tajima, H.; Masuda, S.; Minoshima, T.; Shomojo, M., **Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series**, 2009, 10.1117/12.827950
+* [The X-ray Detectability of Electron Beams Escaping from the Sun](http://adsabs.harvard.edu/abs/2009ApJ...696..941S), Saint-Hilaire, P.; Krucker, S.; Christe, S.; Lin, R. P., **ApJ**, 2009, 10.1088/0004-637X/696/1/941
 
 2008
 ----
@@ -46,7 +47,7 @@ Lin, R. P., **ApJ**, 2011, 10.1088/0004-637X/736/1/75
 
 2007
 ----
-* [Solar hard X-ray microbursts](http://adsabs.harvard.edu/abs/2007PhDT........26C), Christe, S. D., ****, 2007, 
+* [Solar hard X-ray microbursts](http://adsabs.harvard.edu/abs/2007PhDT........26C), Christe, S. D., **University of California, Berkeley Thesis**, 2007, 
 * [Solar Flare Electron Spectra at the Sun and near the Earth](http://adsabs.harvard.edu/abs/2007ApJ...663L.109K), Krucker, S.; Kontar, E. P.; Christe, S.; Lin, R. P., **ApJ**, 2007, 10.1086/519373
 
 2002

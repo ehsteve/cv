@@ -1,0 +1,44 @@
+\documentstyle{article}
+
+\oddsidemargin=.15in
+\evensidemargin=.15in
+\textwidth=6in
+\topmargin=-.0in
+\textheight=9in
+\parindent=0in
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\newenvironment{myitemize*}%
+  {\begin{itemize}%
+    \setlength{\itemsep}{0pt}%
+    \setlength{\parskip}{0pt}}%
+  {\end{myitemize}}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{center}
+{\Large Steven Daniel Christe, Ph.D.} \\[.5pc]
+Solar Physics Laboratory, Heliophysics Science Division, NASA Goddard Space Flight Center, Greenbelt \\
+Work (301) 286-7999 $\;$ steven.d.christe\verb|@|nasa.gov $\;$ \\[2pc]
+\end{center}
+\vspace{-0.2in}
+{\large \bf Education} \\*[-.8pc]
+\underline{\hspace{6in}} \\
+{\bf Ph.D. in Physics, 2007, U.C. Berkeley} \\
+{\bf B.S. (summa cum laude) in Physics \& Mathematics, 2001, S.U.N.Y. Stony Brook} \\
+
+{\large \bf Experience} \\*[-.8pc]
+\underline{\hspace{6in}}
+
+\input{bio_experience.tex}
+
+{\large \bf Selected Publications} \\*[-.8pc]
+\underline{\hspace{6in}} \\
+For a complete list see http://github.com/ehsteve/cv/blob/master/publications.md
+
+\input{selected_publications.tex}
+
+\end{document}
