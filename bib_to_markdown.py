@@ -19,7 +19,7 @@ with open('publications.md', "w") as markdown_publication:
         print(entry['title'])
         if this_year != current_year:
             current_year = this_year
-            markdown_publication.write(current_year + "\n----\n")
+            markdown_publication.write("\n" + current_year + "\n----\n")
         markdown_publication.write("* ")
         cleaned_author_list = entry['author'].replace('{', "").replace('}','').replace('~', ' ').replace(' and ', '; ').replace("\t", '')
         publication = convert_ads_journal_code(entry.get('journal', entry.get('booktitle')))
