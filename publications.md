@@ -2,6 +2,7 @@ Publication List
 ================
 2014
 ----
+*  First Images from the Focusing Optics X-ray Solar Imager, Krucker, S.; Christe, S.; Glesener, L.; Ishikawa, S.; Ramsey, B.; Takahashi, T.;  Watanabe, S.; Saito, S.; Gubarev, M.; Kilaru, K.; Tajima, H.; Tanaka, T.; Turin, P.; McBride, S.; Glaser, D.; Fermin, J.; White, S.; Lin, R. P., **ApJ**, 2014, 10.1088/2041-8205/793/2/L32, [pdf](https://www.researchgate.net/profile/Lindsay_Glesener/publication/265645457_FIRST_IMAGES_FROM_THE_FOCUSING_OPTICS_X-RAY_SOLAR_IMAGER/links/541ee03f0cf241a65a1aa547?origin=publication_detail)
 *  [Investigating the Differential Emission Measure and Energetics of Microflares with Combined SDO/AIA and RHESSI observations](http://adsabs.harvard.edu/abs/2014ApJ...789..116I), Inglis, A. R.; Christe, S., **ApJ**, 2014, 10.1088/0004-637X/789/2/116, [pdf](http://iopscience.iop.org/0004-637X/789/2/116/pdf/apj_789_2_116.pdf)
 *  A Solar Aspect System for the HEROES mission, Christe, S.; Shih, A; Rodriguez, M.; Gregory, K.; Cramer, A; Edgerton, M.; Gaskin, J.; O'Connor, B.; Sobey, A, **Aerospace Conference, 2014 IEEE**, 2014, 10.1109/AERO.2014.6836366
 
