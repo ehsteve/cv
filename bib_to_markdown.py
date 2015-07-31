@@ -37,5 +37,5 @@ with open('publications.md', "w") as markdown_publication:
 
         if entry.get('pdfurl', '') != '':
             publication_line = "%s, [pdf](%s)" % (publication_line, entry['pdfurl'])
-
-        markdown_publication.write(publication_line + '\n')
+        print(publication_line)
+        markdown_publication.write(publication_line.encode('utf8') + '\n')

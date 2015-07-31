@@ -1,10 +1,21 @@
 Publication List
 ================
+2015
+----
+*  SunPy—Python for solar physics, The SunPy Community; Stuart J Mumford; Steven Christe; David Pérez-Suárez; Jack Ireland; Albert Y
+Shih; Andrew R Inglis; Simon Liedtke; Russell J Hewett; Florian Mayer; Keith Hughitt; Nabil Freij; Tomas
+Meszaros; Samuel M Bennett; Michael Malocha; John Evans; Ankit Agrawal; Andrew J Leonard; Thomas P
+Robitaille; Benjamin Mampaey; Jose Iván Campos-Rozo; Michael S Kirk, **Computational Science & Discovery**, 2015, [pdf](http://www.researchgate.net/publication/280575764_SunPyPython_for_solar_physics)
+*  Vision algorithm for the Solar Aspect System of the HEROES mission, Cramer, A.; Christe, S.; Shih, A., **Aerospace Conference, 2015 IEEE**, 2015, 10.1109/AERO.2015.7119072
+
 2014
 ----
-*  SunPy - Python for Solar Physics, Mumford, S; Christe, S; Perez-Suarez, D.; Ireland, J.; Shih, A. Y; Inglis, A. R; Liedtke, S; Hewett, R. J; Mayer, F.; Hughitt, K.; Freij, N.; Meszaros, T.; Bennett, S. M; Malocha, M.; Evans, J.; Agrawal, A.; Leonard, A. J; Robitaille, T. P; Mampaey, B.; Campos-Rozo, J. I.; Kirk, M. S., **Computational Science and Discovery**, 2014, accepted
-*  Calibration of the High Energy Replicated Optics to Explore the Sun (HEROES) Hard X-ray Telescope, Wilson-Hodge, C; Gaskin, J.; Christe, S.; Shih, A.; Tennant, A. Swartz, D.; Kilaru K.; Elsner, R.; Kolodziejczak, J.; Ramsey, B., **Journal of Astronomical Instrumentation**, 2014, submitted
-*  Constraining Hot Plasma in a Non-flaring Solar Active Region with FOXSI Hard X-ray Observations, Ishikawa, S.; Glesener, L.; Christe, S.; Ishibashi, K.; Brooks, D.; Williams, D.; Shimojo, P; Sako, N.; Krucker, S., **Publications of the Astronomical Society of Japan**, 2014, accepted
+*  [Calibration of the High Energy Replicated Optics to Explore the Sun (HEROES) Hard X-ray Telescope](http://adsabs.harvard.edu/abs/2014JAI.....340007W), Wilson-Hodge, C. A.; Gaskin, J.; Christe, S. and
+Shih, A.; Tennant, A.; Swartz, D.; Kilaru, K. and
+Elsner, R.; Kolodziejczak, J.; Ramsey, B., **Journal of Astronomical Instrumentation**, 2014, 10.1142/S2251171714400078, [pdf](https://www.researchgate.net/publication/275042012_Calibration_of_the_High_Energy_Replicated_Optics_to_Explore_the_Sun_%28HEROES%29_Hard_X-ray_Telescope)
+*  [Constraining hot plasma in a non-flaring solar active region with FOXSI hard X-ray observations](http://adsabs.harvard.edu/abs/2014PASJ...66S..15I), Ishikawa, S.-n.; Glesener, L.; Christe, S.; Ishibashi, K. and
+Brooks, D. H.; Williams, D. R.; Shimojo, M. and
+Sako, N.; Krucker, S., **\pasj**, 2014, 10.1093/pasj/psu090
 *  First Images from the Focusing Optics X-ray Solar Imager, Krucker, S.; Christe, S.; Glesener, L.; Ishikawa, S.; Ramsey, B.; Takahashi, T.;  Watanabe, S.; Saito, S.; Gubarev, M.; Kilaru, K.; Tajima, H.; Tanaka, T.; Turin, P.; McBride, S.; Glaser, D.; Fermin, J.; White, S.; Lin, R. P., **ApJ**, 2014, 10.1088/2041-8205/793/2/L32, [pdf](https://www.researchgate.net/profile/Lindsay_Glesener/publication/265645457_FIRST_IMAGES_FROM_THE_FOCUSING_OPTICS_X-RAY_SOLAR_IMAGER/links/541ee03f0cf241a65a1aa547?origin=publication_detail)
 *  [Investigating the Differential Emission Measure and Energetics of Microflares with Combined SDO/AIA and RHESSI observations](http://adsabs.harvard.edu/abs/2014ApJ...789..116I), Inglis, A. R.; Christe, S., **ApJ**, 2014, 10.1088/0004-637X/789/2/116, [pdf](http://iopscience.iop.org/0004-637X/789/2/116/pdf/apj_789_2_116.pdf)
 *  A Solar Aspect System for the HEROES mission, Christe, S.; Shih, A; Rodriguez, M.; Gregory, K.; Cramer, A; Edgerton, M.; Gaskin, J.; O'Connor, B.; Sobey, A, **Aerospace Conference, 2014 IEEE**, 2014, 10.1109/AERO.2014.6836366
