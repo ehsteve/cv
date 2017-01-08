@@ -5,7 +5,11 @@ with open('publications.bib') as bibfile:
     parser = BibTexParser()
     bib_database = bibtexparser.load(bibfile, parser=parser)
 
-print(bib_database.entries[0]['pdfurl'])
+try:
+    print(bib_database.entries[0]['pdfurl'])
+except:
+    pass
+
 def convert_ads_journal_code(code):
     conversion_dict = {'solphys':'Sol. Phys.', 'apj':'ApJ', 'ssr':'Space Sci. Rev.', 'aap':'A&A', 'apjl':'ApJ'}
     return conversion_dict.get(code[1:], code)
